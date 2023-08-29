@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+
 ### 🌐 Socials:
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Baneet2s?label=%20&style=flat-square&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
+  <a href="https://www.linkedin.com/in/baneet-singh-sachdeva-65834a253">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Baneet2s">
+    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
 
 
