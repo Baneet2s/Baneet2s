@@ -1,6 +1,8 @@
-# Hi there 👋
+# Hey, I am Baneet👋
+###  A Tech-Enthusiast diving into code and circuits! Exploring the tech cosmos with curiosity as my compass. Join me in the journey of unraveling ones and zeros 🌌🚀
+<hr>
 
-### 🌐 Socials:
+## 🌐 Socials:
   <a href="https://www.linkedin.com/in/baneet-singh-sachdeva-65834a253">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,7 +12,7 @@
 
 <hr>
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 
 ![Static Badge](https://img.shields.io/badge/HTML5-BLACK?style=flat-square&logo=HTML5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
