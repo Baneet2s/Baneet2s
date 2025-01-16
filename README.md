@@ -1,5 +1,4 @@
 # Hey, I am Baneet👋
-###  A Tech-Enthusiast diving into code and circuits! Exploring the tech cosmos with curiosity as my compass. Join me in the journey of unraveling ones and zeros 🌌🚀
 <hr>
 
 ## 🌐 Socials:
